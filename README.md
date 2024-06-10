@@ -1,2 +1,1 @@
 # Seznam oblíbených studentů
-Jandera
