@@ -1,1 +1,1 @@
-# gym-24-seznam
+# Seznam oblíbených studentů
